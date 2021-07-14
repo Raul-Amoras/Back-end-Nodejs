@@ -1,0 +1,8 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5433,
+  "usename": "postgres",
+  "password": "postgres",
+  "database": "SPU_postgres"
+}
